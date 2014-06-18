@@ -1,0 +1,10 @@
+C:\Users\rlr\Documents\Visual Studio 2010\Projects\StatesMVCAjaxDemo-VBNet\StatesMVCAjaxDemo-VBNet\bin\StatesMVCAjaxDemo-VBNet.dll
+C:\Users\rlr\Documents\Visual Studio 2010\Projects\StatesMVCAjaxDemo-VBNet\StatesMVCAjaxDemo-VBNet\bin\StatesMVCAjaxDemo-VBNet.pdb
+C:\Users\rlr\Documents\Visual Studio 2010\Projects\StatesMVCAjaxDemo-VBNet\StatesMVCAjaxDemo-VBNet\bin\StatesMVCAjaxDemo-VBNet.xml
+C:\Users\rlr\Documents\Visual Studio 2010\Projects\StatesMVCAjaxDemo-VBNet\StatesMVCAjaxDemo-VBNet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rlr\Documents\Visual Studio 2010\Projects\StatesMVCAjaxDemo-VBNet\StatesMVCAjaxDemo-VBNet\obj\Debug\StatesMVCAjaxDemo_VBNet.Resources.resources
+C:\Users\rlr\Documents\Visual Studio 2010\Projects\StatesMVCAjaxDemo-VBNet\StatesMVCAjaxDemo-VBNet\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\rlr\Documents\Visual Studio 2010\Projects\StatesMVCAjaxDemo-VBNet\StatesMVCAjaxDemo-VBNet\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\rlr\Documents\Visual Studio 2010\Projects\StatesMVCAjaxDemo-VBNet\StatesMVCAjaxDemo-VBNet\obj\Debug\StatesMVCAjaxDemo-VBNet.dll
+C:\Users\rlr\Documents\Visual Studio 2010\Projects\StatesMVCAjaxDemo-VBNet\StatesMVCAjaxDemo-VBNet\obj\Debug\StatesMVCAjaxDemo-VBNet.xml
+C:\Users\rlr\Documents\Visual Studio 2010\Projects\StatesMVCAjaxDemo-VBNet\StatesMVCAjaxDemo-VBNet\obj\Debug\StatesMVCAjaxDemo-VBNet.pdb
